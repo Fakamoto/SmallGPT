@@ -39,6 +39,8 @@ The SmallGPTLanguageModel model is based on the Transformer architecture. Here's
 
 The model uses a vocabulary size of 65, an embedding dimension of 256, 6 attention heads, and 6 transformer blocks. It includes dropout for regularization and uses layer normalization. 🧮✨
 
+![image](https://github.com/user-attachments/assets/769c0eb5-0147-4e67-9427-20eab8a70117)
+
 ## 📁 Project Structure
 
 - 🐍 model.py: Contains the SmallGPTLanguageModel model definition
